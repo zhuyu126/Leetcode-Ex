@@ -24,9 +24,8 @@ Thumbs.db
 # Jetbrains Ignore files #
 ##########################
 *.iml
-.idea/
 out/
-.idea
+.idea/
 
 #################
 # Keynote       #
