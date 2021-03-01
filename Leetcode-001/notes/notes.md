@@ -1,6 +1,6 @@
 # 两数之和 
 
-题目描述见 [两数之和]([https://leetcode-cn.com/problems/two-sum/])
+题目描述见 [两数之和](https://leetcode-cn.com/problems/two-sum/)
 
 ## 常规方法(暴力解决)
 
