@@ -1,7 +1,7 @@
 /**
  * 递归解法
  */
-class Solution {
+class Solution1 {
     public ListNode reverseList(ListNode head) {
         return reverseList(null,head);
     }
