@@ -1,3 +1,6 @@
+/**
+ * 双指针迭代解法
+ */
 public class Solution3 {
     public ListNode reverseList(ListNode head) {
         ListNode prev=null;
