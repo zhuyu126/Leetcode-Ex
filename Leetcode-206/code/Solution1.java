@@ -1,5 +1,5 @@
 /**
- * 递归解法
+ * 双指针递归解法
  */
 class Solution1 {
     public ListNode reverseList(ListNode head) {
