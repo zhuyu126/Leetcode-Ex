@@ -1,3 +1,6 @@
+/**
+ * 递归解法
+ */
 public class Solution2 {
     public ListNode reverseList(ListNode head) {
         if (head==null ||head.next==null){
