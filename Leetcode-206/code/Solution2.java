@@ -6,9 +6,9 @@ public class Solution2 {
         if (head==null ||head.next==null){
             return head;
         }
-        ListNode prev=reverseList(head.next);
+        ListNode cur=reverseList(head.next);
         head.next.next=head;
         head.next=null;
-        return prev;
+        return cur;
     }
 }
